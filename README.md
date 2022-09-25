@@ -37,11 +37,11 @@
 < CS_Study >
 	I. CS 개론
 	II. 네트워크
-		1. 네트워크 기초 지식/          # 스터디 주차별 폴더
-			hanbeulYou/                # 개인별 폴더
-				01_TIL.md 	           # 학습 정리 내용 (파일 형식 자유)
-				01_Quiz.md		       # 퀴즈 (정답x)
-				01_Answer.md		   # 퀴즈 정답
+		1. 네트워크 기초 지식/
+			hanbeulYou/
+				01_TIL.md
+				01_Quiz.md
+				01_Answer.md
 			others/
 				""" 이하동일 """
 		2. 신호의 전송과 충돌/
