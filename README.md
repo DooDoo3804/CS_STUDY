@@ -1,14 +1,13 @@
 # CS_STUDY (Network)
 
 ## 스터디 도서
----
-![하루 3분 네트워크 교실](http://image.yes24.com/momo/TopCate900/MidCate009/89983806.jpg)
+<img width="30%" src="https://user-images.githubusercontent.com/109324631/192155366-dabd489f-58ff-4332-98d7-10f138a9fbe9.jpg">
+
 [하루 3분 네트워크 교실 - YES24](http://www.yes24.com/Product/Goods/30670329)
 
 <br>
 
 ## 학습 목차
----
 1. 네트워크 기초 지식 (09/29)
 2. 신호의 전송과 충돌 (10/06)
 3. IP 어드레싱 (10/13)
@@ -19,7 +18,7 @@
 <br>
 
 ## 진행 방식
----
+
 ### 🕗 진행 일정
 
 - 매주 목요일 17:30-20:30(1H) OFFLINE
