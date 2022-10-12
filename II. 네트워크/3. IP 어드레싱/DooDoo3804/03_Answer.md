@@ -8,7 +8,7 @@
 
 4. IP주소를 설정하는 프로토콜인 DHCP의 동작과정을 그림을 그려 설명하시오
 
-![](https://www.netmanias.com/ko/?m=attach&no=1987" style="zoom:50%;)
+<img src="https://www.netmanias.com/ko/?m=attach&no=1987" style="zoom:80%;" />
 
 5. C class
 
